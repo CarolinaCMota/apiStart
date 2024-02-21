@@ -1,0 +1,4 @@
+# quando eu subir essa pasta pro github isso vai impedir que x pasta suba pro github pq eh mt pesado e vem mt coisa desnecessaria, mas util
+node_modules
+
+#se precisar baixa dnv a pasta node modeules com o npm install
